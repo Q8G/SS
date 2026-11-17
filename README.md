@@ -35,7 +35,7 @@ Run the install.bat file
 ```
 
 
-## **Image of a Code**
+## **Code Output :**
 
 ![App Screenshot](https://i.postimg.cc/BQKk7jP7/Silent-Self.png)
 
